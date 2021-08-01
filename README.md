@@ -18,7 +18,7 @@ This project is completely mobile friendly .
   
 ## License
 
-[MIT]()
+[MIT](https://github.com/BipronathSaha99/standardcalculator/blob/main/LICENSE)
 
   
 ## Authors
